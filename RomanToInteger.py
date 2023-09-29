@@ -4,7 +4,7 @@ class Solution:
         result = 0
         i = len(s) - 1
         j = i - 1
-        #print("How is this possible?", s[0])
+        print("How is this possible?", s[0])
         
         while i >= 0:
             current_number = 0
